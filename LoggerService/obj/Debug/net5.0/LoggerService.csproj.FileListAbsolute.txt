@@ -1,0 +1,15 @@
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csprojAssemblyReference.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb

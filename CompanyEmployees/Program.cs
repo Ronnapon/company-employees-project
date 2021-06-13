@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace CompanyEmployees
 {
+    // Program.cs is the entry point to our application
     public class Program
     {
         public static void Main(string[] args)

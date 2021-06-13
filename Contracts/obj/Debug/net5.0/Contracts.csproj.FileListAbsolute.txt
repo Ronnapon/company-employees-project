@@ -1,0 +1,12 @@
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.pdb

@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "pzIds8iRvdDIwxl9Nm7X2wcy4SnUTiCaX1wlEcgQO96GEja0a/HGUzj9ZTTTqordJpCbRzT/la8tI4E92gTTpg==",
+  "dgSpecHash": "TMwnbNjc9uhtMxvFZjtEQ4UoSKlDop5gFONQ3ISnL/zEh29EuL+I0jrwIGOgJxHHQ8N687MCXpdSdqVGLW+C7w==",
   "success": true,
   "projectFilePath": "D:\\Users\\E14-Ronnapon\\Desktop\\WebAPI (Ebook)\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\nlog\\4.7.4\\nlog.4.7.4.nupkg.sha512",
+    "C:\\Users\\E14-Ronnapon\\.nuget\\packages\\nlog.extensions.logging\\1.6.5\\nlog.extensions.logging.1.6.5.nupkg.sha512"
+  ],
   "logs": []
 }
