@@ -1,7 +1,11 @@
 ﻿using Contracts;
+using Entities;
 using LoggerService;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +19,8 @@ namespace CompanyEmployees.Extensions
         // คือกลไกที่ทำให้เว็บเซิร์ฟเวอร์สามารถอนุญาต หรือไม่อนุญาต
         // การร้องขอทรัพยากรใดๆ ในหน้าเว็บ ที่ถูกเรียกมาจากโดเมนอื่น
         // ที่ไม่ใช่โดเมนที่หน้าเว็บนั้นอยู่
-        public static void ConfigureCors(this IServiceCollection services) =>
+        public static void ConfigureCors(this IServiceCollection services)
+        {
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy", builder =>
@@ -23,21 +28,40 @@ namespace CompanyEmployees.Extensions
                     .AllowAnyMethod()
                     .AllowAnyHeader());
             });
-
+        }
 
         // IIS Configuration
         //ASP.NET Core applications are by default self-hosted, and if we want to host our
         //application on IIS, we need to configure an IIS integration which will eventually
         //help us with the deployment to IIS.To do that.
-        public static void ConfigureIISIntegration(this IServiceCollection services) =>
+        public static void ConfigureIISIntegration(this IServiceCollection services)
+        {
             services.Configure<IISOptions>(options =>
             {
             });
-
+        }
 
         // Add for Logger
-        public static void ConfigureLoggerService(this IServiceCollection services) =>
-        services.AddScoped<ILoggerManager, LoggerManager>();
+        public static void ConfigureLoggerService(this IServiceCollection services)
+        {
+            services.AddScoped<ILoggerManager, LoggerManager>();
+        }
 
+
+        // For Entity Freamwork (SQL)
+        // Change migration  Assembly
+        public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration)
+        {    
+            services.AddDbContext<RepositoryContext>(opts =>
+                opts.UseSqlServer(configuration.GetConnectionString("sqlConnection"), 
+                    b => b.MigrationsAssembly("CompanyEmployees"))); 
+        }
+
+
+        public static void ConfigureRepositoryManager(this IServiceCollection services)
+        {
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
+        }
+            
     }
 }

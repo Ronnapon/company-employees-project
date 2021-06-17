@@ -37,6 +37,9 @@ namespace CompanyEmployees
             services.ConfigureCors();
             services.ConfigureIISIntegration();
             services.ConfigureLoggerService();
+            services.ConfigureSqlContext(Configuration); // SQL Service
+            services.ConfigureRepositoryManager();
+
             //----------------------------------------->
             // This method registers only the controllers in IServiceCollection
             // and not Views or Pages  because they are not required in the Web API project

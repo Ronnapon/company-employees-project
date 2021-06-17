@@ -1,0 +1,17 @@
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csprojAssemblyReference.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb

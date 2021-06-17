@@ -1,0 +1,12 @@
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.pdb
