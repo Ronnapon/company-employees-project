@@ -10,3 +10,6 @@ D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debu
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.dll
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\ref\Contracts.dll
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\bin\Debug\net5.0\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\bin\Debug\net5.0\Entities.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete

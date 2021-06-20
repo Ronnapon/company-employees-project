@@ -65,3 +65,5 @@ D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\CompanyEmployees\b
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Entities.pdb
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Repository.dll
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Repository.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\AutoMapper.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

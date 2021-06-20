@@ -39,7 +39,7 @@ namespace CompanyEmployees
             services.ConfigureLoggerService();
             services.ConfigureSqlContext(Configuration); // SQL Service
             services.ConfigureRepositoryManager();
-
+            services.AddAutoMapper(typeof(Startup));
             //----------------------------------------->
             // This method registers only the controllers in IServiceCollection
             // and not Views or Pages  because they are not required in the Web API project

@@ -13,3 +13,5 @@ D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
 D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+D:\Users\E14-Ronnapon\Desktop\WebAPI (Ebook)\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb
