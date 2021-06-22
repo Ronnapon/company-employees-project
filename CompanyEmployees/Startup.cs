@@ -1,4 +1,5 @@
 using CompanyEmployees.Extensions;
+using Contracts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpOverrides;
@@ -48,7 +49,7 @@ namespace CompanyEmployees
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,ILoggerManager logger)
         {
             if (env.IsDevelopment())
             {
@@ -60,15 +61,17 @@ namespace CompanyEmployees
                 app.UseHsts();  //will add middleware for using HSTS, which adds theStrict - Transport - Security header.
             }
             //----->
-
+            // Add Global Error Handing 
+            app.ConfigureExceptionHandler(logger);
+            //-------------------->
             app.UseHttpsRedirection();
-
             // Add
             // enables using static files for the request. If we don’t set a path to the static files directory, it will use a wwwroot folder in our project by default.
+            
             app.UseStaticFiles();
             app.UseCors("CorsPolicy");
             // forward proxy headers to the current request. This will help us during application deployment.
-                        app.UseForwardedHeaders(new ForwardedHeadersOptions
+            app.UseForwardedHeaders(new ForwardedHeadersOptions
             {
                 ForwardedHeaders = ForwardedHeaders.All
             });
