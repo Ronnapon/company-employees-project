@@ -40,7 +40,7 @@ namespace CompanyEmployees.Controllers
             //throw new Exception("Exception");
 
             var companies = _repository.Company.GetAllCompanies(trackChanges: false);
-            var companiesDto = _mapper.Map<IEnumerable<CompanyDto>>(companies);
+            var companiesDto = _mapper.Map<IEnumerable<CompanyDto>>(companies); // Auto Mapping
             return Ok(companiesDto);
         }
     }
